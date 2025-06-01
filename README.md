@@ -8,7 +8,7 @@ To adapt a Spanish-language LLM for chat interactions using fine-tuning techniqu
 
 ## Model and Methodology
 
-- **Base model**: `mistralai/Mistral-7B-Instruct-v0.2`
+- **Base model**: `NousResearch/Llama-2-7b-chat-hf`
 - **Fine-tuning method**: LoRA (via PEFT library)
 - **Training data**: Spanish news articles from sources like *La Razón* and *Público*, reformatted into chat-style conversation pairs.
 
