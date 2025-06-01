@@ -20,7 +20,7 @@ To adapt a Spanish-language LLM for chat interactions using fine-tuning techniqu
 - Datasets
 - Gradio (for UI)
 
-## 💻 How it Works
+## How it Works
 
 1. Loads and preprocesses Spanish news into chat format
 2. Fine-tunes a Mistral-based model using LoRA
